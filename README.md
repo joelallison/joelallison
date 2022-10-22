@@ -1,2 +1,1 @@
-<img src="https://pbs.twimg.com/media/EdXAwNXWoAA_tgd.jpg" alt="recursion meme" width="30%" height="30%" align="right">
-
+![joelallison's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelallisona&show_icons=true&theme=dracula)
